@@ -6,3 +6,9 @@ pessoa.cadastro('Guilherme',27);
 pessoa.cadastro('Julia',17);
 
 console.log(pessoa.consulta());
+
+pessoa.deleta(3);
+
+console.log(pessoa.consulta());
+
+console.log(pessoa.consultaPessoaID(4));

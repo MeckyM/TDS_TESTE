@@ -1,22 +1,22 @@
-// //Soma de dois numeros
-// function Soma(a, b) {
-//     return a + b;
-// };
-//     console.log("A soma é:", Soma(5,5));
+//Soma de dois numeros
+function Soma(a, b) {
+    return a + b;
+};
+    console.log("A soma é:", Soma(5,5));
 
 
-// //Multiplicador de dois valores
-// function Multiplicador(a, b) {
-//     return a * b;
-// }
-//     console.log("O multiplo é:", Multiplicador(2,5));
+//Multiplicador de dois valores
+function Multiplicador(a, b) {
+    return a * b;
+}
+    console.log("O multiplo é:", Multiplicador(2,5));
 
 
-// //Divisão de dois valores
-// function Divisão(a, b) {
-//     return a / b;
-// }
-//     console.log("A divisão é:", Divisão(20,2));
+//Divisão de dois valores
+function Divisão(a, b) {
+    return a / b;
+}
+    console.log("A divisão é:", Divisão(20,2));
 //<-----------------------------------------------------------------------------------------------------------------------------
 
 
@@ -44,6 +44,21 @@
 // READER - ler
 // UPDATE - atualizar
 // DELTE - deletar
+//<------------------------------------------------------------------------------------------------------------------------------
+
+
+
+// Utilizando Objetos
+
+
+// const pessoa = {
+//     id: 1,
+//     nome: "Guilherme",
+//     idade: 27 
+// }
+
+// console.log(pessoa);
+// console.log(pessoa.idade);
 
 
 
